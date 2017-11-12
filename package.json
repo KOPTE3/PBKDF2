@@ -1,0 +1,20 @@
+{
+	"name": "PBKDF2",
+	"version": "1.0.0",
+	"description": "Программа подбора оптимальных параметров адаптивной криптографической хэш-функции PBKDF2",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/KOPTE3/PBKDF2.git"
+	},
+	"bugs": {
+		"url": "https://github.com/KOPTE3/PBKDF2/issues"
+	},
+	"homepage": "https://github.com/KOPTE3/PBKDF2#readme",
+	"dependencies": {
+		"randomstring": "^1.1.5"
+	}
+}
